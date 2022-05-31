@@ -1,6 +1,6 @@
 # CSOPESY Project 2: Synchronization Problems
 
-### Authors
+### S13 Group 2
 - Angel Lopez
 - Joshue Jadie
 
